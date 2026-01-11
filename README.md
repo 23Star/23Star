@@ -1,56 +1,31 @@
-# 👋 你好，我是 23Star
+<div align="center">
 
-**全栈开发者 | 开源爱好者 | 终身学习者**
+# Hi, I'm 23Star ⭐
 
----
-
-## 🌟 关于我
-
-```javascript
-const me = {
-  name: "23Star",
-  role: "Full Stack Developer",
-  location: "🌏 China",
-  passions: [
-    "💻 开发有趣的项目",
-    "🔧 探索新技术",
-    "📚 终身学习",
-    "🤝 参与开源社区"
-  ]
-};
-```
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)
 
 ---
 
-## 🛠️ 技术栈
+### 🛠️ Tech Stack
 
-**前端**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-
-**后端**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**工具**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
 
-## 📊 统计
+### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23Star&show_icons=true&theme=default&hide_border=true)
-
----
-
-## 🤝 联系我
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/23Star)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23Star&show_icons=true&title_color=58A6FF&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=58A6FF)
 
 ---
 
-**Made with ❤️ by 23Star**
+### 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=social)](https://github.com/23Star)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
