@@ -1,0 +1,7 @@
+需要一个科技感的 banner 图片
+
+可以使用以下在线工具创建：
+1. https://banner.githunt.dev/
+2. https://levani.github.io/github-profile-banner-generator/
+
+或者让我用 ASCII 艺术作为简单的科技背景
