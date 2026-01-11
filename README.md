@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm 23Star ⭐
+# 23Star
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%A1+Open+Source+Enthusiast;%F0%9F%93%9A+Lifelong+Learner)](https://github.com/23Star)
 
 </div>
